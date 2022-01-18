@@ -1,15 +1,5 @@
 # Using the rules of Wordle, given a guessWord and a solutionWord, return a set of emojis returned from the guessWord.
 
-# Example:
-
-# let solutionWord = "fudge"
-
-# $ wordleGuess("reads", solutionWord)
-# $ ""
-
-# $ wordleGuess("lodge", solutionWord)
-# $ "⬛ "
-
 emojis = {
     "green": "💚",
     "black": "⬛",
