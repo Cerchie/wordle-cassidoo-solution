@@ -2,7 +2,7 @@
 
 emojis = {
     "green": "💚",
-    "black": "⬛",
+    "black": "🖤",
     "yellow": "💛",
 }
 
